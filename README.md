@@ -5,7 +5,7 @@ Custom PCB libraries and components for Altium Designer, Circuit Studio and KiCa
 ---
 
 ## 🔖 Version
-![version](https://img.shields.io/badge/dynamic/json?url=https://cdn.jsdelivr.net/gh/Oktay97/Altium_New_Repo_Test@master/version.json&query=$.version&label=Version&style=for-the-badge&cacheSeconds=86400)
+![version](https://img.shields.io/badge/dynamic/json?url=https://cdn.jsdelivr.net/gh/Oktay97/AltiumLibrary@master/version.json&query=$.version&label=Version&style=for-the-badge&cacheSeconds=86400)
 
 ---
 
@@ -30,4 +30,4 @@ Custom PCB libraries and components for Altium Designer, Circuit Studio and KiCa
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Oktay97/Altium_New_Repo_Test.git
+git clone https://github.com/Oktay97/AltiumLibrary.git

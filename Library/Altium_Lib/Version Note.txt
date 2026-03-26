@@ -1,0 +1,7 @@
+ add
+ modified
+ SchLib or PcbLib 
+ 
+ Notes
+	ver 1.04
+	
