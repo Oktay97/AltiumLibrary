@@ -1,2 +1,9 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+	*.SchDoc binary
+	*.PcbDoc binary
+	*.PcbLib binary
+	*.SchLib binary
+	*.LibPkg binary
+	*.IntLib binary
+
+	*.txt text eol=crlf
+	*.md text eol=lf

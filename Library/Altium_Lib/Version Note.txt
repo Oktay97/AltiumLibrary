@@ -4,4 +4,16 @@
  
  Notes
 	ver 1.04
-	
+		modified PcbLib INDUCTOR_FIXED_4.9MMX.4.9MM
+		modified SchLib CONN_5__SFW5R-3STE1LF	
+		add SchLib MOSFET_DMP6023LE-13
+		add SchLib DIODE_BZT52C15-13-F
+		add PcbLib Fuse_1206
+		add SchLib FUSE_SF-1206S300-2
+		add SchLib Fuse_Holder__696106003002
+		add PcbLib 696106003002
+		modified SchLib	A4983SETTR-T
+		add SchLib RES_ERJ-6BWFR068V	
+		add	SchLib CONN_2__61612002121503
+		add PcbLib 61612002121503
+		
