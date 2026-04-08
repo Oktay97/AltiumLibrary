@@ -3,6 +3,16 @@
  SchLib or PcbLib 
  
  Notes
+ 
+	ver 1.05
+		add SchLib RELAY_ALDP112W
+		add PcbLib RELAY_ALDP11
+		add SchLib AS7341-DLGM
+		add PcbLib 8-TFLGA_AS7341
+		add SchLib THVD1400DR
+		add SchLib MCU_STM32C011F6U6TR
+		add PcbLib 20-UFQFPN (3x3)
+		
 	ver 1.04
 		modified PcbLib INDUCTOR_FIXED_4.9MMX.4.9MM
 		modified SchLib CONN_5__SFW5R-3STE1LF	
