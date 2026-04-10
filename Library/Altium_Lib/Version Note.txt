@@ -2,7 +2,25 @@
  modified
  SchLib or PcbLib 
  
- Notes
+ Notes	
+	ver 1.06
+		add SchLib LM393BIDSGR
+		add PcbLib 8-WSON (2x2)
+		add SchLib CONN_4__653104131822
+		add PcbLib 653104131822
+		add SchLib CONN_5__653105131822
+		add PcbLib 653105131822
+		add SchLib THVD1400DRLR
+		add PcbLib SOT-583
+		add SchLib DIODE_1N4148WT
+		add PcbLib SOD-523F
+		add SchLib LED_GT JTLPS1.13-KKLN-25-1-150-R33
+		add PcbLib LED_1411 
+		add SchLib LED_GW JTLPS1.CM-JNKN-XX51-1-150-R33
+		add PcbLib LED_1113	
+		add SchLib AP7331-18SNG-7
+		add SchLib TCA9416DDFR
+		add PcbLib TSOT-23-8
  
 	ver 1.05
 		add SchLib RELAY_ALDP112W
