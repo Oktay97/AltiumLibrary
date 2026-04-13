@@ -3,6 +3,9 @@
  SchLib or PcbLib 
  
  Notes	
+	ver 1.07
+		modified SchLib AP7331-18SNG-7
+ 
 	ver 1.06
 		add SchLib LM393BIDSGR
 		add PcbLib 8-WSON (2x2)
