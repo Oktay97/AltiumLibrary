@@ -2,49 +2,55 @@
  modified
  SchLib or PcbLib 
  
- Notes	
-	ver 1.07
-		modified SchLib AP7331-18SNG-7
+ Notes
+
+    ver 1.08
+        modified SchLib LM393BIDSGR
+        modified SchLib AP7331-18SNG-7
+        modified PcbLib 8-WSON (2x2)
+
+    ver 1.07
+        modified SchLib AP7331-18SNG-7
  
-	ver 1.06
-		add SchLib LM393BIDSGR
-		add PcbLib 8-WSON (2x2)
-		add SchLib CONN_4__653104131822
-		add PcbLib 653104131822
-		add SchLib CONN_5__653105131822
-		add PcbLib 653105131822
-		add SchLib THVD1400DRLR
-		add PcbLib SOT-583
-		add SchLib DIODE_1N4148WT
-		add PcbLib SOD-523F
-		add SchLib LED_GT JTLPS1.13-KKLN-25-1-150-R33
-		add PcbLib LED_1411 
-		add SchLib LED_GW JTLPS1.CM-JNKN-XX51-1-150-R33
-		add PcbLib LED_1113	
-		add SchLib AP7331-18SNG-7
-		add SchLib TCA9416DDFR
-		add PcbLib TSOT-23-8
+    ver 1.06
+        add SchLib LM393BIDSGR
+        add PcbLib 8-WSON (2x2)
+        add SchLib CONN_4__653104131822
+        add PcbLib 653104131822
+        add SchLib CONN_5__653105131822
+        add PcbLib 653105131822
+        add SchLib THVD1400DRLR
+        add PcbLib SOT-583
+        add SchLib DIODE_1N4148WT
+        add PcbLib SOD-523F
+        add SchLib LED_GT JTLPS1.13-KKLN-25-1-150-R33
+        add PcbLib LED_1411 
+        add SchLib LED_GW JTLPS1.CM-JNKN-XX51-1-150-R33
+        add PcbLib LED_1113 
+        add SchLib AP7331-18SNG-7
+        add SchLib TCA9416DDFR
+        add PcbLib TSOT-23-8
  
-	ver 1.05
-		add SchLib RELAY_ALDP112W
-		add PcbLib RELAY_ALDP11
-		add SchLib AS7341-DLGM
-		add PcbLib 8-TFLGA_AS7341
-		add SchLib THVD1400DR
-		add SchLib MCU_STM32C011F6U6TR
-		add PcbLib 20-UFQFPN (3x3)
-		
-	ver 1.04
-		modified PcbLib INDUCTOR_FIXED_4.9MMX.4.9MM
-		modified SchLib CONN_5__SFW5R-3STE1LF	
-		add SchLib MOSFET_DMP6023LE-13
-		add SchLib DIODE_BZT52C15-13-F
-		add PcbLib Fuse_1206
-		add SchLib FUSE_SF-1206S300-2
-		add SchLib Fuse_Holder__696106003002
-		add PcbLib 696106003002
-		modified SchLib	A4983SETTR-T
-		add SchLib RES_ERJ-6BWFR068V	
-		add	SchLib CONN_2__61612002121503
-		add PcbLib 61612002121503
-		
+    ver 1.05
+        add SchLib RELAY_ALDP112W
+        add PcbLib RELAY_ALDP11
+        add SchLib AS7341-DLGM
+        add PcbLib 8-TFLGA_AS7341
+        add SchLib THVD1400DR
+        add SchLib MCU_STM32C011F6U6TR
+        add PcbLib 20-UFQFPN (3x3)
+        
+    ver 1.04
+        modified PcbLib INDUCTOR_FIXED_4.9MMX.4.9MM
+        modified SchLib CONN_5__SFW5R-3STE1LF   
+        add SchLib MOSFET_DMP6023LE-13
+        add SchLib DIODE_BZT52C15-13-F
+        add PcbLib Fuse_1206
+        add SchLib FUSE_SF-1206S300-2
+        add SchLib Fuse_Holder__696106003002
+        add PcbLib 696106003002
+        modified SchLib A4983SETTR-T
+        add SchLib RES_ERJ-6BWFR068V    
+        add SchLib CONN_2__61612002121503
+        add PcbLib 61612002121503
+        
