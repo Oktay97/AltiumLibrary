@@ -4,6 +4,11 @@
  
  Notes
 
+	ver 1.09
+		add SchLib 0ZCJ0075AF2E
+		add SchLib IRM-20-12
+		add SchLib 0ZCG0160BF2C
+		
     ver 1.08
         modified SchLib LM393BIDSGR
         modified SchLib AP7331-18SNG-7
