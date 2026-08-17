@@ -1,14 +1,39 @@
  add
  modified
- SchLib or PcbLib 
- 
+ SchLib or PcbLib
+
  Notes
 
-	ver 1.09
-		add SchLib 0ZCJ0075AF2E
-		add SchLib IRM-20-12
-		add SchLib 0ZCG0160BF2C
-		
+    ver 1.10
+        add SchLib MOSFET_AO3400A
+        add SchLib LED_CH DELSS1.22
+        add PcbLib LED_CHDELSS122
+        add SchLib MCU_STM32C071KBT6
+        add PcbLib 14-DHVQFN (2.5x3)
+        add SchLib 74AHCT125BQ,115
+        add SchLib OPA365AQDBVRQ1
+        add SchLib CAP_TANTALUM_T491C226K025AT
+        add SchLib MIC5205-3.3YM5-TR
+        add PcbLib 48-UFQFNP (7x7)
+        add SchLib MCU_STM32L452CCU6
+        add SchLib 74HC541PW,118
+        add SchLib LT1818CS5
+        add PcbLib 8-WSON (3x3)
+        modified PcbLib 8-WSON (2x2)
+        modified PcbLib 12-VFDFN EXPOSED PAD
+        modified PcbLib INDUCTOR_FIXED_4.9MMX.4.9M
+        modified PcbLib CONN_5__SFW5R-3STE1LF
+        add SchLib S11108
+        add PcbLib DIP24_S11108_HAM
+        add SchLib DIODE_SMAJ12A
+        add SchLib RES_RCS120618R0FKEA
+        modified PcbLib SOT-23-3
+
+    ver 1.09
+        add SchLib 0ZCJ0075AF2E
+        add SchLib IRM-20-12
+        add SchLib 0ZCG0160BF2C
+        
     ver 1.08
         modified SchLib LM393BIDSGR
         modified SchLib AP7331-18SNG-7
